@@ -1,0 +1,15 @@
+Para comenzar con el algoritmo tenemos que considerar varios factores, la edad del cliente, el sueldo que gana, cuantos hijos tiene,
+si esta casado y por ultimo la edad que tiene.
+Ya cuando hayamos aclarado todo eso nos dan lo que son el porcentaje para ver cuanto recargo se le va a proporcionar ala persona con los datos que se le pide,
+despues comenzamos con un const para obtener un recargo de lo que se le va agregar al cliente basandonos en la edad del mismo, ponemos
+un if para abrir nuestra llave adentro de este podemos la edad de la persona, ya que nos dieron varias edades, 18, 24 y 49, nos guiaremos para 
+ver cuando sera el recargo de la persona, lo que mas usaremos seran los prompt, para saber la edad de la persona, si tiene pareja o no,
+si tiene hijos, el sueldo que tiene la persona, el nombre de la persona y cuantas propiedades tenga, para que va a servir eso, pues nos servira para que nos tire mensajes en la cotizadora,
+para poder ir metiendo los datos de las personas y nos vaya diciendo los recargos que este tendra.
+Los return nos sirve para poder decirle al cotizador de cuanto sera el porcentaje que se le vaya a poner al cliente, dependiento los datos que nos de.
+al igual meteremos los alert, por si la persona no tiene la mayoria de edad, nos tire la alerta de que esa persona no es mayor de edad.
+Podemos un let para el precio y los recargo que se vayan a hacer, posteriormente podemos el siguiente codigo recargo += obtenerRecargo(edad), 
+esto nos servira para ver cuanto sera el recargo de la persona dependiendo de la edad que este posea,
+Y lo mas importante es el for, esto nos ayudara a repetir una instruccion con un numero compuerto para que esta la ejecute mas veces.
+Y por otro lado esta la opcion while, este es el bucle que nos ayudara a tener un ciclo repetitivo, cual es su proposito aqui repetir una accion,
+hasta que la persona le de en la opcion salir, hasta en ese momento le seguira tirando el mismo mensaje.
